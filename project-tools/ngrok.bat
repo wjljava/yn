@@ -1,0 +1,1 @@
+start ngrok/ngrok -config=ngrok/ngrok.cfg -subdomain wangjianlong 7771
